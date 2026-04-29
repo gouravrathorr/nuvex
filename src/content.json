@@ -1,0 +1,124 @@
+{
+  "brand": {
+    "name": "NUVEX",
+    "tagline": "New Standard in Supply",
+    "description": "Wholesale manufacturer and exporter of custom branded apparel. B2B only."
+  },
+
+  "contact": {
+    "whatsapp": "919522233950",
+    "whatsappDisplay": "+91 95222 33950",
+    "email": "orders@nuvex.in",
+    "website": "nuvex.in",
+    "location": "Madhya Pradesh, India",
+    "exportNote": "Export Worldwide"
+  },
+
+  "hero": {
+    "badge": "B2B · Wholesale · Export",
+    "headline": "NUVEX",
+    "subheadline": "NEW STANDARD IN SUPPLY",
+    "body": "Custom branded apparel. Wholesale only. We manufacture hoodies, polos, sweatshirts and caps with your logo — for corporates, events, hotels and distributors.",
+    "cta1": "Request Catalogue",
+    "cta2": "WhatsApp Us",
+    "stats": [
+      { "value": "50+", "label": "Minimum Order" },
+      { "value": "B2B", "label": "Wholesale Only" },
+      { "value": "14",  "label": "Days Delivery" },
+      { "value": "20+", "label": "Colour Options" }
+    ]
+  },
+
+  "products": [
+    {
+      "id": "01",
+      "name": "Hoodie",
+      "desc": "Cotton fleece pullover and zip hoodies. 300–400 GSM. Custom logo embroidery and screen print.",
+      "specs": ["300–400 GSM", "XS to 5XL", "MOQ 50 pcs"],
+      "tag": "Best Seller"
+    },
+    {
+      "id": "02",
+      "name": "Polo T-Shirt",
+      "desc": "Premium pique polo for corporates, hotels and uniforms. Logo on chest or sleeve.",
+      "specs": ["180–220 GSM", "All sizes", "MOQ 50 pcs"],
+      "tag": "Summer Pick"
+    },
+    {
+      "id": "03",
+      "name": "Sweatshirt",
+      "desc": "Crew-neck fleece sweatshirts for teams, events and institutions. Pantone colour matching.",
+      "specs": ["300–350 GSM", "XS to 5XL", "MOQ 50 pcs"],
+      "tag": null
+    },
+    {
+      "id": "04",
+      "name": "Cap",
+      "desc": "Structured and unstructured caps with embroidered or printed logo. 6-panel and 5-panel.",
+      "specs": ["Adjustable", "Custom patch", "MOQ 100 pcs"],
+      "tag": "Promo Favourite"
+    }
+  ],
+
+  "customisation": {
+    "methods": [
+      {
+        "id": "01",
+        "name": "Screen Printing",
+        "desc": "High-opacity ink directly on fabric. Best for bold logos and large chest prints. Up to 8 colours.",
+        "ideal": "Events · Promotional · High Volume"
+      },
+      {
+        "id": "02",
+        "name": "Embroidery",
+        "desc": "Thread stitched into fabric. Premium finish, lasting quality. Perfect for chest, sleeve and cap logos.",
+        "ideal": "Corporate · Hotels · Uniforms"
+      },
+      {
+        "id": "03",
+        "name": "Heat Transfer",
+        "desc": "Photographic-quality prints for complex gradients and full-colour artwork. Front, back, sleeve.",
+        "ideal": "Complex artwork · Full colour · Samples"
+      }
+    ],
+    "placements": [
+      "Left chest", "Right chest", "Centre chest",
+      "Full back", "Upper back", "Left sleeve",
+      "Right sleeve", "Cap front", "Cap side"
+    ],
+    "steps": [
+      "Share your logo file (AI / PNG / PDF)",
+      "We send artwork proof for approval",
+      "50% advance confirms your order",
+      "Production in 10–14 working days",
+      "QC check + dispatch with photos"
+    ]
+  },
+
+  "why": {
+    "reasons": [
+      { "id": "01", "title": "B2B Only",           "desc": "We work exclusively with businesses. No retail, no D2C. Serious buyers get serious pricing." },
+      { "id": "02", "title": "MOQ from 50",        "desc": "Start small, scale fast. Minimum 50 pieces per design — low enough to test, low enough to reorder." },
+      { "id": "03", "title": "Export Ready",       "desc": "We supply to UAE, UK, Australia and beyond. Every order packed and documented for international shipment." },
+      { "id": "04", "title": "Fast Turnaround",    "desc": "12–14 working days from artwork approval to dispatch. Faster than most factories. Reliable every time." },
+      { "id": "05", "title": "Full Custom",        "desc": "Your logo, your colours, your labels. Embroidery, screen print, heat transfer. Front, back, sleeves." },
+      { "id": "06", "title": "Direct Response",    "desc": "Reply within 2 hours. WhatsApp-first communication. No waiting, no middlemen, straight answers." }
+    ],
+    "buyers": [
+      "Corporate Companies", "Event Management Firms",
+      "Hotels & Resorts", "Promotional Distributors",
+      "Schools & Colleges", "Sports Teams & Clubs",
+      "NGOs & Institutions", "Export Importers"
+    ],
+    "marquee": [
+      "HOODIES", "POLO T-SHIRTS", "SWEATSHIRTS", "CAPS",
+      "SCREEN PRINT", "EMBROIDERY", "WHOLESALE",
+      "EXPORT", "B2B ONLY", "MOQ 50 PCS", "CUSTOM LOGO"
+    ]
+  },
+
+  "contact_form": {
+    "products": ["Hoodie", "Polo T-Shirt", "Sweatshirt", "Cap", "Multiple Products"],
+    "quantities": ["50–100 pcs", "100–250 pcs", "250–500 pcs", "500–1000 pcs", "1000+ pcs"]
+  }
+}
